@@ -1,3 +1,6 @@
+Ahmad Luay Adnani
+FTDS - RMT 018
+
 # Loan Customer Analysis Dashboard
 This project aims to build an Artificial Neural Network model that capable of predicting customer churn in an e-commerce company. By predicting customer churn, a company can take proactive measures to retain these customer
 
