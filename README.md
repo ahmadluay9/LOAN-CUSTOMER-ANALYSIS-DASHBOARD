@@ -5,7 +5,7 @@ This project aims to build an Artificial Neural Network model that capable of pr
 - notebook.ipynb = This file is the main notebook used to explore dataset.
 - lion-loan-train.csv = Dataset used for analysis
 - dataset_final.csv = Dataset used for Dashboard Visualization
-- lion customer.pbix = Dashboard Visualization on Power BI
+- Dashboard Visualization.pbix = Dashboard Visualization on Power BI
 
 # Conclusion
 - The percentage of approved loan status is 69%. Further data exploration is needed to find out what causes the loan to be approved.
